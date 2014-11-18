@@ -1,6 +1,6 @@
 # Parthenon Skill Test
 ### A jQuery Plugin that parses crontab commands and outputs their scheduled times to a table
-Frist, Load the plugin on the page after you jQuery
+Frist, Load the plugin on the page after jQuery
 #### Example:
 ```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
