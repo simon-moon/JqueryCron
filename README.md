@@ -19,6 +19,6 @@ Then, simply call the jQueryCronParser method on an element, passing in the inpu
 ```javascript
  $('#button').jQueryCronParser('#input','#output')
 ```
-note: output element should be a table
+note: output element should be a table and input should be a textarea
 
 
