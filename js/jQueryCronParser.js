@@ -73,7 +73,6 @@
       }
 
       function parseDo(value, min, max, map, lookup) {
-        // interpret steps
         var stepCollection = getCollection(value);
         if (stepCollection === null) {
             return null;
