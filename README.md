@@ -1,20 +1,12 @@
-parthenonTest
-=============
-
 # Parthenon Skill Test
-
-
 ### A jQuery Plugin that parses crontab commands and outputs their schedueld times to a table
-
 Frist, Load the plugin on the page after you load jquery
 #### Example:
 ```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="js/jQueryCronParser.js"></script>
 ```
-
 Then, simply call the jQueryCronParser method on an element, passing in the input element and the output element
-
 #### Example:
 ```javascript
  $('#button').jQueryCronParser('#input','#output')
