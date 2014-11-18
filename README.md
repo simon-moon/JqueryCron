@@ -9,7 +9,7 @@ Frist, Load the plugin on the page after jQuery
 Then, simply call the jQueryCronParser method on an element, passing in the input element and the output element
 #### Example:
 ```javascript
- $('#button').jQueryCronParser('#input','#output')
+ $('#button').jQueryCronParser('#input','#output');
 ```
 note: output element should be a table and input should be a textarea
 
