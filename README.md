@@ -1,4 +1,4 @@
-# Parthenon Skill Test
+# Jquery Cron Parser
 ### A jQuery Plugin that parses crontab commands and outputs their scheduled times to a table
 Frist, Load the plugin on the page after jQuery
 #### Example:
